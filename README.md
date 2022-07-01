@@ -18,5 +18,5 @@ A simple phonebook aplication using C++ and DSA concepts which runs on command l
 ![image](https://user-images.githubusercontent.com/86933754/176828167-d970418f-c572-4a1b-b0a8-a8cf05574911.png)
 
 ----
-With many other features
+With many other features available and being updated.   
 
